@@ -5,6 +5,6 @@ Deepcode Development store is your one-stop shop for all your FiveM needs, with 
 
 ### 👨‍💻 Meet the team
 
-- Killerhunter. (owner)
-- Mr.Lua (Ceo)
-- Juba (Ceo)
+- <a href="https://khdevs.com/">Killerhunter-(Founder)</a>
+- <a href="https://khdevs.com/">Mr.Lua-(Ceo)</a>
+- <a href="https://khdevs.com/">Juba-(Ceo)</a>
