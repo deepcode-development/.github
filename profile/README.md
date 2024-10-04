@@ -7,4 +7,3 @@ Deepcode Development store is your one-stop shop for all your FiveM needs, with 
 
 - <a href="https://khdevs.com/">Killerhunter-(Founder)</a>
 - <a href="https://github.com/mas7or123">Mr.Lua-(Ceo)</a>
-- <a href="https://github.com/jubs1114">Juba-(Team Member)</a>
